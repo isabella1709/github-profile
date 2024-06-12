@@ -10,7 +10,7 @@
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=isabella1709&show_icons=true&theme=vision-friendly-dark"
     media="(prefers-color-scheme: dark)"
-    height= "200cm"
+    height= "220cm"
     width= "150cm"
   />
   <source
