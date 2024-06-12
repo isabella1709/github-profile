@@ -21,7 +21,7 @@
   <img height= "180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabella1709&layout=compact&theme=vision-friendly-dark"/>
 </div>
 
-### Languages that I've been working:
+### Working on:
 
 <div style="display: flex; align-items: center; justify-content: center; height: 100vh; margin: 0;"><br>
   <img align="center" alt="Isa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
