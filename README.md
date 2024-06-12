@@ -11,6 +11,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=isabella1709&show_icons=true&theme=vision-friendly-dark"
     media="(prefers-color-scheme: dark)"
     height= "200cm"
+    width= "150cm"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
@@ -18,7 +19,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
-  <img height= "200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabella1709&layout=compact&theme=vision-friendly-dark"/>
+  <img height= "200cm" width= "150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabella1709&layout=compact&theme=vision-friendly-dark"/>
 </div>
 
 ### Languages that I've been working:
