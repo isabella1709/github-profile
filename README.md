@@ -3,11 +3,11 @@
 - Computer Science Student - PUCPR
 - E-mail: berkembrockisabella@hotmail.com
 
-<div style="display: flex; align-items: center; justify-content: space-evenly;">
+<div style="display: flex; align-items: center; justify-content: center;">
   <picture>
     <source
       height="180cm"
-      srcset="https://github-readme-stats.vercel.app/api?username=isabella1709&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+      srcset=" https://github-readme-stats.vercel.app/api?isabella1709=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vision-friendly-dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -21,7 +21,7 @@
 
 ### Languages that I've been working:
 
-<div style="display: inline_block"><br>
+<div style="display: flex; align-items: center; justify-content: center;"><br>
   <img align="center" alt="Isa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Isa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Isa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
