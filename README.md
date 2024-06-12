@@ -3,7 +3,7 @@
 - Computer Science Student - PUCPR
 - E-mail: berkembrockisabella@hotmail.com
 
-<div style="display: flex; align-items: center; justify-content: center;">
+<div style="display: flex; align-items: center; justify-content: space-evenly;">
   <picture>
     <source
       height="180cm"
