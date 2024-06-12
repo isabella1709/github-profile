@@ -1,4 +1,4 @@
-##I'm Isabella Vanderlinde Berkembrock, student of Computer Science ;)
+### I'm Isabella Vanderlinde Berkembrock, student of Computer Science ;)
 
 - Computer Science Student - PUCPR
 - E-mail: berkembrockisabella@hotmail.com
@@ -18,6 +18,8 @@
   </picture>
   <img height= "180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabella1709&layout=compact&theme=tokyonight"/>
 </div>
+
+### Languages that I've been working
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Isa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
