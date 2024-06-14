@@ -4,6 +4,7 @@
 
 - Computer Science Student - PUCPR
 - E-mail: berkembrockisabella@gmail.com
+- Linkedin: www.linkedin.com/in/isabella-vanderlinde-berkembrock-023043269
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <picture>
@@ -21,6 +22,8 @@
   <img height= "180cm" width="380cm"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabella1709&layout=compact&theme=vision-friendly-dark"/>
 </div>
 
+##
+
 ### Working on:
 
 <div style="display: flex; align-items: center; justify-content: center; height: 100vh; margin: 0;"><br>
@@ -33,13 +36,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
   <img align="center" alt="Isa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Isa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Isa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
- ##
-
- <div> 
-  <a href = "mailto: berkembrockisabella@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/isabella-vanderlinde-berkembrock-023043269" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</body>
 
 
 
