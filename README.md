@@ -5,6 +5,7 @@
 - Computer Science Student - PUCPR
 - E-mail: berkembrockisabella@gmail.com
 - Linkedin: www.linkedin.com/in/isabella-vanderlinde-berkembrock-023043269
+- Currículo Lattes: http://lattes.cnpq.br/0442351213878668
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <picture>
